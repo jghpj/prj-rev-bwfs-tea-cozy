@@ -1,0 +1,41 @@
+/*This is header*/
+header{
+background-color: black;
+text-decoration-color: white;
+height: 69px;
+position: fixed;
+border-bottom: 1px solid seashell;
+text-decoration: underline;
+}
+
+/*This is body*/
+body{
+ font-family: Helvetica;
+ font-size: 22px;
+ color: seashell;
+ backgound-color: black;
+ opacity: 0.9;
+ text-align: center;
+ text-decoration-color: white;
+ position: relative;
+}
+
+/*This is content 1*/
+content 1{
+ height: 700px;
+}
+
+/* this is content 2*/
+content 2{
+ height: 700px;
+}
+
+/* this is content 3*/
+content 3{
+ height: 500px ;
+ }
+
+/* this is footer*/
+footer{
+ height: 200px;
+}
